@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo(a)! Eu sou a Clara. 👋
 
-- 🔭 Hoje trabalho apenas com criação de conteúdo para a Twitch
-- 🌱 Estudando para ser uma Dev Full Stack
+- 🔭 Hoje trabalho com Suporte ao cliente
+- 🌱 Estudando para ser uma UX/UI
 - 😄 Pronouns: ela/dela
 <div id="gitStats">
   <a href="https://github.com/claracsr">
