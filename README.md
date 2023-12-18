@@ -1,7 +1,6 @@
 ### Olá! Seja bem vindo(a)! Eu sou a Clara. 👋
 
-- 🔭 Hoje trabalho com Suporte ao cliente
-- 🌱 Estudando para ser uma UX/UI
+- 📱 Product Designer
 - 😄 Pronouns: ela/dela
 <div id="gitStats">
   <a href="https://github.com/claracsr">
