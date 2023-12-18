@@ -1,6 +1,7 @@
 ### Olá! Seja bem vindo(a)! Eu sou a Clara. 👋
 
-- 📱 Product Designer
+- 🎨 Product Designer
+- 📱Focada em interfaces e usabilidade mobile
 - 😄 Pronouns: ela/dela
 <div id="gitStats">
   <a href="https://github.com/claracsr">
